@@ -14,7 +14,7 @@ The project is designed to monitor events (keystrokes, mouse movements, process 
 
 ## 🚀 Roadmap
 
-- [ ] Mouse and keyboard activity detection (Idle/Active tracking).
+- [ ] Mouse and keyboard activity detection (Idle/Active tracking)..
 - [ ] Active window and background process monitoring.
 - [ ] Real-time event logging.
 - [ ] Notifications when specific activity thresholds are met.
