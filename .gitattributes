@@ -1,0 +1,16 @@
+# Set the default behavior: automatic line ending conversion
+* text=auto
+
+# Ensure all Rust source code files use LF endings,
+# to avoid compilation issues across different operating systems
+*.rs text eol=lf
+
+# Configuration and documentation files
+*.md text eol=lf
+*.toml text eol=lf
+*.json text eol=lf
+.gitignore text eol=lf
+
+# Binary files (to prevent accidental line ending conversion)
+*.png binary
+*.jpg binary
