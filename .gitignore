@@ -2,21 +2,21 @@
 /target/
 **/*.rs.bk
 
-# Cargo.lock file (рекомендуется коммитить для бинарных приложений)
-# Если это библиотека, можно закомментировать следующую строку
+# Cargo.lock file (It is recommended to commit for binary applications)
+# If this is a library, you can comment out the following line
 Cargo.lock
 
-# Интегрированные среды разработки (IDE)
+# Integrated development environments (IDE)
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# Операционные системы
+# Operating systems
 .DS_Store
 Thumbs.db
 ehthumbs.db
 
-# Временные файлы проекта
+# Temporary project files
 *.log
 *.tmp
