@@ -32,3 +32,19 @@ cd ActiRust
 
 # Build the project (once source code is available)
 cargo build --release
+
+ActiRust/recomrnded folder and files
+├── src/
+│   ├── main.rs
+│   ├── capture/
+│   │   ├── mod.rs
+│   │   ├── keyboard.rs
+│   │   └── process.rs
+│   ├── processing/
+│   │   ├── mod.rs
+│   │   └── rules.rs
+│   └── notify/
+│       ├── mod.rs
+│       └── handlers.rs
+├── Cargo.toml
+└── .gitignore
