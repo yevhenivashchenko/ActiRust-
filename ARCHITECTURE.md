@@ -1,6 +1,6 @@
 # Architecture of ActiRust
 
-ActiRust is designed as a high-performance, low-overhead system monitoring tool. The architecture prioritizes minimal resource consumption while maintaining cross-platform compatibility.
+ActiRust is designed as a high-performance, low-overhead system monitoring tool. The architecture prioritizes minimal resource consumption while maintaining cross-platform compatibility./
 
 ## High-Level Overview
 
